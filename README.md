@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun VS</h1>
-<h3 align="center">A passionate computer science from India</h3>
+<h3 align="center">A passionate computer science student from India</h3>
 
 - 🔭 I’m currently working on [TicTacToe](https://amritacampuschennai-my.sharepoint.com/:u:/g/personal/ch_en_u4cse22161_ch_students_amrita_edu/ERFg1C1Cvv9OlTGVr7-Q2RoB8FmRb3U5TmKeCq5LIkMSRQ?e=9MxXH0)
 
