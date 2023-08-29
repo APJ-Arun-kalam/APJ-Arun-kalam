@@ -5,17 +5,14 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👯 I’m looking to collaborate on [Web development](--will update soon)
+- 👯 I’m looking to collaborate on [Web development]
 
-- 🤝 I’m looking for help with [App development](--will update soon)
+- 🤝 I’m looking for help with [App development]
 
-- 👨‍💻 All of my projects are available at [----will update soon----](----will update soon----)
 
 - 💬 Ask me about **Java, c, c++**
 
 - 📫 How to reach me **arunnangavaram5@gmail.com**
-
-- 📄 Know about my experiences [----will upload soon----](----will upload soon----)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
